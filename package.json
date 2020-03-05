@@ -1,0 +1,26 @@
+{
+  "name": "d03",
+  "version": "1.0.0",
+  "description": "day03",
+  "main": "my_db.js",
+  "dependencies": {
+    "uuid": "^7.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo it works"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dreamlox/POC_SoftwarePool2020_d03.git"
+  },
+  "keywords": [
+    "coucou"
+  ],
+  "author": "julien.de-waele@epitech.eu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dreamlox/POC_SoftwarePool2020_d03/issues"
+  },
+  "homepage": "https://github.com/Dreamlox/POC_SoftwarePool2020_d03#readme"
+}
